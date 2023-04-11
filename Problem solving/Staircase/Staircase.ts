@@ -11,5 +11,3 @@ function staircase(n: number): void {
     console.log(result)
   }
 }
-
-staircase(12);
